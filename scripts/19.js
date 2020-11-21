@@ -1,0 +1,3 @@
+/* <![CDATA[ */
+var _wpCustomHeaderSettings = {"mimeType":"","posterUrl":"http:\/\/localhost\/wordpress\/wp-content\/themes\/twentyseventeen\/assets\/images\/header.jpg","videoUrl":"","width":"2000","height":"1200","minWidth":"900","minHeight":"500","l10n":{"pause":"<span class=\"screen-reader-text\">Pause background video<\/span><svg class=\"icon icon-pause\" aria-hidden=\"true\" role=\"img\"> <use href=\"#icon-pause\" xlink:href=\"#icon-pause\"><\/use> <\/svg>","play":"<span class=\"screen-reader-text\">Play background video<\/span><svg class=\"icon icon-play\" aria-hidden=\"true\" role=\"img\"> <use href=\"#icon-play\" xlink:href=\"#icon-play\"><\/use> <\/svg>","pauseSpeak":"Video is paused.","playSpeak":"Video is playing."}};
+/* ]]> */
